@@ -1,2 +1,1 @@
-# jenkins-mock-pipeline
-Testing auto trigger.
+Auto-trigger test
