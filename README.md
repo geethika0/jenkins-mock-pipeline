@@ -1,1 +1,1 @@
-Auto-trigger test
+Auto-trigger
